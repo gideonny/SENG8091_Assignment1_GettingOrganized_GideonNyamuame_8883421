@@ -17,7 +17,7 @@
 
 ## ❓ 3. Key Questions for the Client
 
-### 🖥️ Platform & Client Interaction
+# 🖥️ Platform & Client Interaction
 
 1. Is your current platform digital, or are operations primarily paper-based?  
 2. Is client information stored digitally or on paper?  
@@ -25,21 +25,21 @@
 
 ---
 
-### 👥 Employee Onboarding Process
+# 👥 Employee Onboarding Process
 
 4. Can you walk me through the current steps involved in onboarding a new employee, from start to finish?  
 5. Is there a dedicated team responsible for training new employees?
 
 ---
 
-### 🎯 Employee Autonomy & Consistency
+# 🎯 Employee Autonomy & Consistency
 
 6. Which areas of the onboarding process allow employees the freedom to "do as they please"?  
 7. Which aspects of the onboarding process currently allow employees to follow their own methods or approaches?
 
 ---
 
-### 💬 Feedback & Pain Points
+# 💬 Feedback & Pain Points
 
 8. How do you currently collect and manage feedback from employees and customers regarding your onboarding processes?  
 9. What do clients complain about the most?  
@@ -47,11 +47,10 @@
 
 ---
 
-### 🛠️ Tools & Process Standardization
+# 🛠️ Tools & Process Standardization
 
 11. Are there any software tools currently used during onboarding, or is the process fully manual?  
 12. Have you ever considered standardizing or automating parts of the onboarding process?
-
 
 ## 🔁 4. Follow-Up Clarification Questions
 1) What does a successfully onboarded client or employee look like?
@@ -59,14 +58,28 @@
 3) Are there any legal statutes or regulations that need to be considered, given that pets are involved?
 
 ## ✅ 5. Draft Requirements (To Be Validated)
-
+1) Develop standardized onboarding workflows for:
+    - New employees
+    - New clients (including pet information)
+2) Design an internal dashboard for tracking onboarding progress
+3) Create digital intake forms for client/pet information
+4) Allow for automated client notifications (email/SMS)
+5) Provide employees with step-by-step guidance and training
+6) Include admin oversight tools for process consistency, including: 
+    - Monitors how onboarding is progressing for employees and clients
+    - Ensures that all employees are following the same standardized onboarding procedures
+    - Identifies bottlenecks or inconsistencies in the onboarding steps
+    - Alerts when employees deviate from standardized onboarding process
+    - Report generation
 
 ## 🛠️ 6. Preliminary Tasks (Title Only)
-...
+
+
 
 ## 🔗 7. Git & Submission Notes
 Name: Gideon Nyamuame
-StudentNumber: 8883421
+Student Number: 8883421
 Course: SENG 8091
 Email: Gnyamuame3421@conestogac.on.ca
+Date: 28/5/2025
 Github repository: https://github.com/gideonny/SENG8091_Assignment1_GettingOrganized_GideonNyamuame_8883421
