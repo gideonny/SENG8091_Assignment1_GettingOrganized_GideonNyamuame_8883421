@@ -54,13 +54,19 @@
 
 
 ## 🔁 4. Follow-Up Clarification Questions
-...
+1) What does a successfully onboarded client or employee look like?
+2) Is the daycare interested in automating notifications via email or text?
+3) Are there any legal statutes or regulations that need to be considered, given that pets are involved?
 
 ## ✅ 5. Draft Requirements (To Be Validated)
-...
+
 
 ## 🛠️ 6. Preliminary Tasks (Title Only)
 ...
 
 ## 🔗 7. Git & Submission Notes
-...
+Name: Gideon Nyamuame
+StudentNumber: 8883421
+Course: SENG 8091
+Email: Gnyamuame3421@conestogac.on.ca
+Github repository: https://github.com/gideonny/SENG8091_Assignment1_GettingOrganized_GideonNyamuame_8883421
