@@ -98,7 +98,9 @@ To improve the onboarding experience for owners, employees, and clients at the P
 
 ---
 
-## 🔗 7. Git & Submission Notes
+## 🔗 7. Submission Notes, Github Repository link, and References
+
+
 
 - **Name**: Gideon Nyamuame  
 - **Student Number**: 8883421  
@@ -107,3 +109,6 @@ To improve the onboarding experience for owners, employees, and clients at the P
 - **Date**: 28/05/2025  
 - **GitHub Repository**: [\[https://github.com/gideonny/SENG8091_Assignment1_GettingOrganized_GideonNyamuame_8883421\](https://github.com/gideonny/SENG8091_Assignment1_GettingOrganized_GideonNyamuame_8883421)
 ](https://github.com/gideonny/SENG8091_Assignment1_GettingOrganized_GideonNyamuame_8883421)
+- **References**:
+   - SENG 8091 Course Shell content from week 1 to week 3
+   - https://www.markdownguide.org/basic-syntax/
